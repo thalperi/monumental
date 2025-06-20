@@ -46,8 +46,6 @@ All letters included meet the following criteria:
   - 6–7 from the last 500 years  
   - 5 from the last 100 years  
 
----
-
 ## 🗂 Repository Contents
 
 ```plaintext
@@ -80,8 +78,6 @@ monumental-letters/
 ├── README.md
 └── LICENSE
 ````
-
----
 
 ## 🗺️ Visual Assets
 
